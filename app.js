@@ -6,7 +6,7 @@ let animation = document.querySelector("section.animation-wrapper");
 const time_line = new TimelineMax();
 
 // parameter1 是要控制的對象 2 : 是duration  3 : 是我們控制對象的原始狀態給object 4 : 控制對象動畫結束後的狀態
-// ease那個是script裡面可以用的東西
+// Power2.easeInOut是script裡面可以用的東西
 // parameter 5
 time_line
   .fromTo(hero, 1, { height: "0%" }, { height: "100%", ease: Power2.easeInOut })
