@@ -10,7 +10,7 @@
   * 不論更改學分或者成績GPA都會相對應修改 並且增刪項目時也會有transform動畫 以提升使用者體驗
 
 # English Version
--** Website Functionality:** The website allows users to input courses, credits, grades, and manually enter course numbers in a dropdown menu. The default setting includes three items, which users can add or delete. The GPA score is automatically calculated, and the website provides functionality for sorting scores in descending or ascending order.
+- ** Website Functionality:** The website allows users to input courses, credits, grades, and manually enter course numbers in a dropdown menu. The default setting includes three items, which users can add or delete. The GPA score is automatically calculated, and the website provides functionality for sorting scores in descending or ascending order.
 - **Technical Details:**
   - The sorting algorithm uses merge sort to optimize time complexity.
   - All buttons in the form use preventDefault() to prevent the form from submitting and causing a page refresh.
