@@ -1,7 +1,10 @@
 # GPA-Calculation-Website
 
 # 專案說明
-* 網站功能 : 可在下拉式選單中輸入上的課程、學分數、成績以及自行填入課號 default設定是三個項目，可自行新增或者刪除項目，最後會自動計算GPA成績 並且提供降序升序排序成績的功能
+* 網站功能: 可在下拉式選單中輸入上的課程、學分數、成績以及自行填入課號 default設定是三個項目，可自行新增或者刪除項目，最後會自動計算GPA成績 並且提供降序升序排序成績的功能
+* 網站畫面:
+  * 過場動畫:
+    * <img height="400" width="300" src="https://github.com/nickchen111/Game/blob/main/Space%20Game/img/%E5%A4%AA%E7%A9%BA%E9%81%8A%E6%88%B2%E9%96%8B%E5%A7%8B%E7%95%AB%E9%9D%A2.png">
 * 技術細節:
   * 排序演算法使用merge sort 來優化時間複雜度
   * 表單內的按鍵都使用preventDefault()防止表單傳出造成更新頁面的效果
