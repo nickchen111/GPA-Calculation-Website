@@ -22,6 +22,18 @@
 
 # English Version
 - **Website Functionality:** The website allows users to input courses, credits, grades, and manually enter course numbers in a dropdown menu. The default setting includes three items, which users can add or delete. The GPA score is automatically calculated, and the website provides functionality for sorting scores in descending or ascending order.
+* Website Screens:
+  * Transition Animation:
+    ![Transition Animation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png)
+  * Website Interface:
+    ![Website Interface](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png)
+  * Dropdown Menu for Selecting Courses:
+    ![Dropdown Menu for Selecting Courses](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E8%AA%B2%E7%A8%8B.png)
+  * Dropdown Menu for Selecting Grades:
+    ![Dropdown Menu for Selecting Grades](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E6%88%90%E7%B8%BE%E5%AD%B8%E5%88%86%E6%95%B8.png)
+  * Automatic GPA Calculation:
+    ![Automatic GPA Calculation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png)
+
 - **Technical Details:**
   - The sorting algorithm uses merge sort to optimize time complexity.
   - All buttons in the form use preventDefault() to prevent the form from submitting and causing a page refresh.
