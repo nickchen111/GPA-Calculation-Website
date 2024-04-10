@@ -20,6 +20,7 @@
     <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png">
     
     也可以在github page使用該網頁 但建議使用firefox瀏覽器開啟
+    
 * 技術細節:
   * 排序演算法使用merge sort 來優化時間複雜度
   * 表單內的按鍵都使用preventDefault()防止表單傳出造成更新頁面的效果
@@ -40,7 +41,7 @@
     ![Dropdown Menu for Selecting Grades](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E6%88%90%E7%B8%BE%E5%AD%B8%E5%88%86%E6%95%B8.png)
   * Automatic GPA Calculation:
     ![Automatic GPA Calculation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png)
-  You can also use the webpage on GitHub Pages, but it is recommended to open it using the Firefox browser.
+    You can also use the webpage on GitHub Pages, but it is recommended to open it using the Firefox browser.
 - **Technical Details:**
   - The sorting algorithm uses merge sort to optimize time complexity.
   - All buttons in the form use preventDefault() to prevent the form from submitting and causing a page refresh.
