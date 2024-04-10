@@ -18,6 +18,7 @@
   * 自動計算GPA
 
     <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png">
+    
     也可以在github page使用該網頁 但建議使用firefox瀏覽器開啟
 * 技術細節:
   * 排序演算法使用merge sort 來優化時間複雜度
