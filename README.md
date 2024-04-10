@@ -5,19 +5,19 @@
 * 網站版面:
   * 過場動畫:
     
-    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png">
+    ![Transition Animation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png)
   * 網站畫面:
     
-    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png">
+    ![Website Interface](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png)
   * 下拉式選單選擇課程
     
-    <img height="200" width="1200" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E8%AA%B2%E7%A8%8B.png">
+    ![Dropdown Menu for Selecting Courses](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E8%AA%B2%E7%A8%8B.png)
   * 下拉式選單選擇成績
 
-    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E6%88%90%E7%B8%BE%E5%AD%B8%E5%88%86%E6%95%B8.png">
+    ![Dropdown Menu for Selecting Grades](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E6%88%90%E7%B8%BE%E5%AD%B8%E5%88%86%E6%95%B8.png)
   * 自動計算GPA
 
-    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png">
+     ![Automatic GPA Calculation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E8%87%AA%E5%8B%95%E8%A8%88%E7%AE%97GPA.png)
     
     也可以在github page使用該網頁 但建議使用firefox瀏覽器開啟
     
