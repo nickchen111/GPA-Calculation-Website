@@ -2,7 +2,7 @@
 
 # 專案說明
 * 網站功能: 可在下拉式選單中輸入上的課程、學分數、成績以及自行填入課號 default設定是三個項目，可自行新增或者刪除項目，最後會自動計算GPA成績 並且提供降序升序排序成績的功能
-* 網站畫面:
+* 網站版面:
   * 過場動畫:
     
     <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png">
@@ -30,7 +30,7 @@
 
 # English Version
 - **Website Functionality:** The website allows users to input courses, credits, grades, and manually enter course numbers in a dropdown menu. The default setting includes three items, which users can add or delete. The GPA score is automatically calculated, and the website provides functionality for sorting scores in descending or ascending order.
-* Website Screens:
+* Website Layout:
   * Transition Animation:
     ![Transition Animation](https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png)
   * Website Interface:
