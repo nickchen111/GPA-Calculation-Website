@@ -4,9 +4,9 @@
 * 網站功能: 可在下拉式選單中輸入上的課程、學分數、成績以及自行填入課號 default設定是三個項目，可自行新增或者刪除項目，最後會自動計算GPA成績 並且提供降序升序排序成績的功能
 * 網站畫面:
   * 過場動畫:
-    * <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png">
+    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E9%81%8E%E5%A0%B4%E5%8B%95%E7%95%AB.png">
   * 網站畫面:
-    * <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png">
+    <img height="400" width="800" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E7%B6%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png">
   * 下拉式選單選擇課程
     * <img height="400" width="1000" src="https://github.com/nickchen111/GPA-Calculation-Website/blob/main/img/%E4%B8%8B%E6%8B%89%E5%BC%8F%E9%81%B8%E5%96%AE%E9%81%B8%E6%93%87%E8%AA%B2%E7%A8%8B.png">
   * 下拉式選單選擇成績
